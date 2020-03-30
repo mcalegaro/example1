@@ -12,8 +12,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
-import com.example.demo.vo.PedidoListarDto;
 import com.example.demo.vo.PedidoVO;
+import com.example.demo.vo.ServicePageableResponse;
 import com.example.demo.vo.VencimentoPedidoDto;
 
 @SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT)

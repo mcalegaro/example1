@@ -1,4 +1,4 @@
-package com.example.demo.ctrl;
+package com.example.demo.vo;
 
 import java.util.List;
 
